@@ -59,3 +59,7 @@ npm test
 
 Note:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+### Example
+<img width="919" alt="Screenshot 2023-01-27 at 20 19 45" src="https://user-images.githubusercontent.com/5513419/215184100-c4f8de71-8b42-4a3d-b61d-5b6329265623.png">
